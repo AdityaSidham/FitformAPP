@@ -2,4 +2,4 @@ mediapipe
 numpy
 pandas
 streamlit
-opencv-python-headless
+opencv-contrib-python-headless
