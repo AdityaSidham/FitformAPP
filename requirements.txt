@@ -1,6 +1,0 @@
-opencv-contrib-python
-mediapipe
-numpy
-opencv-python-headless
-pandas
-streamlit
